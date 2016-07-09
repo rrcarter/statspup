@@ -18,7 +18,7 @@ body{
 .nav-items a, .fancy-junk {
   font-family: 'Oswald';
   font-size: 24px;
-  color: inherit;
+  color: #FFD700;
   text-decoration: none;
   z-index: 300;
   padding: 0 15px;
@@ -41,7 +41,7 @@ body{
 
 .credit {
   color: white;
-  font-family: 'Inconsolata';
+  font-family: 'Oswald';
   font-size: 18px;
   margin-top: 50px;
   text-align: center;
@@ -66,7 +66,7 @@ body{
   position:absolute;
   -webkit-filter: blur(1px);
   color: #EB219B;
-  -webkit-text-fill-color: white;
+  -webkit-text-fill-color: #19FCFF; /* changed from white */
   text-shadow: -2px -2px 0 #b7fefe;
   -webkit-filter: drop-shadow(3px 3px 1px #227474);
   -webkit-transform: skew(-3deg,-7deg);
