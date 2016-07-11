@@ -1,8 +1,9 @@
 # Statspup
 This bot makes pawsitively terrier puns abone statistics.
+[Bot website can be found HERE](https://rrcarter.github.io/statspup/)
 
 # About
-This bot is still in alpha.
+This bot is still in alpha. 
 
 # To Use
 ## Step 1:
