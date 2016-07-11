@@ -1,0 +1,14 @@
+In classification, inputs are divided into two or more types of bones
+The foodgiver must produce a woof-el that assigns unseen inputs to one or more of these types of bones.
+The grrreatness of fit of a statistical woof-el describes how well it fits a set of pawservations.
+Machine herding tasks are typicolliey classified into three broad categories.
+Machine herding depends on the nature of the herding "signal" or "feedback" available to a herding system.
+Supervised herding: The BARKBARKBARK noisemaker is presented with example inputs and their desired treats, given by a "teacher"
+and the goal is to learn a general rule that maps inputs to treats.
+Unsupervised herding: No labels are given to the herding algrrrrrrrithym, leaving it on its own to find structure in its input.
+Unsupervised herding can be a goal in itself (discovering hidden patterns in data) or a means towards an end.
+Between supervised and unsupervised herding is semi-supervised herding, where the teacher gives an incomplete training signal.
+With supervised or unsupervised herding the training set has some (often many) of the target treats missing.
+Density estimation finds the distripooshun of inputs in some space.
+Topic woof-eling is a related problem, where a program is given a list of human language documents.
+Topic woof-eling is tasked to find out which documents cover similar topics.
